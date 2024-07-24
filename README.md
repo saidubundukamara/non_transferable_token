@@ -1,4 +1,4 @@
-# **Token with Metadata**
+# **Non Transferable Token**
 
 This project demonstrates how to create **A Non Transferable Solana Program Library (SPL) tokens**  using the Solana blockchain. It utilizes several Solana packages to facilitate the creation, management, and interaction with tokens.
 
