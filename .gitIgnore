@@ -1,0 +1,4 @@
+*.log
+node_modules/
+
+Creating of Solana Program Library (SPL) tokens with metadata on the Solana blockchain.
